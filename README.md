@@ -34,7 +34,6 @@
 > <img width="794" height="387" alt="图片" src="https://github.com/user-attachments/assets/ab30578b-d6d2-440c-abde-ddf09e5d42de" />
 
 
-
 ## 🚀 快速安装 (镜像源)
 
 背景：2026.03.31 claude code 上 npm 上传了包含 claude code 源码的 `cli.js.map` 文件
